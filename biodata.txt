@@ -1,0 +1,51 @@
+Hallo nama saya Fauzan dan ini biodata saya:
+
+Nama Lengkap		: Fauzan Akmal Hariz
+Nama Panggilan		: Fauzan
+NPM			: 140810180005
+TTL			: Bogor, 15 Agustus 2000
+Umur			: 18 Tahun
+Anak Ke-		: 1 dari - bersaudara
+Jenis Kelamin		: Laki-laki
+Agama			: Islam
+Hobi			: Olahraga
+Cita-cita		: Profesor, Doktor, Presiden
+Bahasa Sehari-hari	: Bahasa Indonesia
+Kewarganegaraan		: Indonesia
+Email			: fauzanakmalhariz1@gmail.com
+Akun Github		: fauzanakmalh1
+Instagram		: fauzanakmalh1
+Twitter			: fauzanakmalh1
+ID Line			: fauzanakmalhariz1
+No. Handphone		: 085217114348
+Alamat Rumah 		: Jln. Raya Ciapus, Kec. Tamansari, Kab. Bogor, Jawa Barat, Indonesia
+Alamat Kosan		: Jln. Kolonel Ahmad Syam Kec. Cikeruh Kab. Sumedang, Jawa Barat, Indonesia
+Jarak Menuju Kampus	: 3 KM
+Berangkat Ke Kampus	: Kendaraan Pribadi
+
+Riwayat Sekolah :
+	SD	: 
+		Nama	: SD Negeri Polisi 1 Bogor
+		Alamat	: Jln. Paledang No.45 Kec. Bogor Tengah, Kota Bogor, Jawa Barat, Indonesia
+		Tahun	: 2006-2012
+	SMP		: 
+		Nama	: SMP Negeri 7 Bogor
+		Alamat	: Jln. Paledang No.25 Kec. Bogor Tengah, Kota Bogor, Jawa Barat, Indonesia
+		Tahun	: 2012-2015
+	SMA		: 
+		Nama	: SMA Negeri 9 Bogor
+		Alamat	: Jln. Kartini No.01 Kec. Bogor Tengah, Kota Bogor, Jawa Barat, Indonesia
+		Tahun	: 2015-2018
+	Universitas
+		Nama	: Universitas Padjadjaran
+		Alamat	: Jl. Raya Bandung Sumedang KM.21, Kec. Jatinangor, Kab. Sumedang, Jawa Barat, Indonesia
+		Tahun	: 2018-Sekarang
+
+Motto Hidup		: Selalu berdoa dan berusaha melakukan yang terbaik.
+
+
+
+
+
+
+
