@@ -2,10 +2,8 @@ Hallo nama saya Fauzan dan ini biodata saya:
 
 Nama Lengkap		: Fauzan Akmal Hariz
 Nama Panggilan		: Fauzan
-NPM			: 140810180005
 TTL			: Bogor, 15 Agustus 2000
 Umur			: 18 Tahun
 Jenis Kelamin		: Laki-laki
-Hobi			: Olahraga
 Email			: fauzanakmalhariz1@gmail.com
 Akun Github		: fauzanakmalh1
